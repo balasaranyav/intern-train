@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+}
+header{
+    background-color:#0C3C60;
+}
+a {
+color: white;
+}
+.info-block {
+    width: 344px;
+    padding:15px;
+    background-color: #0C3C60;
+    color:white;
+    margin:15px;
+    float:left;
+}
+.info-title {
+    text-align:center;
+    color:white;
+    font-style:oblique;
+}
+
